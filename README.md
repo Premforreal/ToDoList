@@ -1,4 +1,5 @@
-# ToDoList
+<h1> To-Do List</h1>
+<hr>
 <ul>
   <li>A simple to-do list web app developed using Node.js, Express & Mongoose as the back-end using MongoDB as database.</li>
   <li>Front-end of the project is made using Html , Css and Javascript.</li>
