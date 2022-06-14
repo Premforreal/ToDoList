@@ -6,6 +6,7 @@
 </ul>
 
 <h3>What I've learnt.</h3>
+<hr>
 <ul>
   <li>Experience working with <b>MongoDB</b> and <b>CRUD<b> operations.</li>
   <li>Accessing database with <b>NodeJS</b> using <b>Mongoose.</b></li>
