@@ -5,8 +5,7 @@
   <li>It provides simple UI to interact and perform basic operations like add or delete particular to-do and has option to mark as completed.</li>
 </ul>
 
-<h3>What I've learnt.</h3>
-<hr>
+<h3><u>What I've learnt.</u></h3>
 <ul>
   <li>Experience working with <b>MongoDB</b> and <b>CRUD</b> operations.</li>
   <li>Accessing database with <b>NodeJS</b> using <b>Mongoose.</b></li>
@@ -15,6 +14,5 @@
 <li>Utilized <b>GIT</b> and <b>GitHub</b.></li>
 </ul>
 
-<h4>Screenshots of UI</h4>
-<hr>
+<h4><u>Screenshots of UI<u/></h4>
 <img src="https://raw.githubusercontent.com/Premforreal/ToDoList/main/Screenshot%20(99).png" alt="screenshot" height="500" />
