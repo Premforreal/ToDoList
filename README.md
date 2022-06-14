@@ -16,4 +16,4 @@
 </ul>
 <hr>
 ## Screenshots of UI
-<img src="[https://github.com/Kiran-M-P/ToDo-List-V2/blob/a7d76aea88a7f22c9f641605ec504c48dd987ca0/screenshot.jpg](https://raw.githubusercontent.com/Premforreal/ToDoList/main/Screenshot%20(99).png)" alt="screenshot" height="500" />
+<img src="https://raw.githubusercontent.com/Premforreal/ToDoList/main/Screenshot%20(99).png" alt="screenshot" height="500" />
