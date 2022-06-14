@@ -4,8 +4,8 @@
   <li>Front-end of the project is made using HTML , CSS and JavaScript.</li>
   <li>It provides simple UI to interact and perform basic operations like add or delete particular to-do and has option to mark as completed.</li>
 </ul>
-
-<h3><u>What I've learnt.</u></h3>
+<hr>
+<h3>What I've learnt.</h3>
 <ul>
   <li>Experience working with <b>MongoDB</b> and <b>CRUD</b> operations.</li>
   <li>Accessing database with <b>NodeJS</b> using <b>Mongoose.</b></li>
@@ -13,6 +13,6 @@
   <li>Familiar with <b>EJS</b>.</i>
 <li>Utilized <b>GIT</b> and <b>GitHub</b.></li>
 </ul>
-
-<u><h4>Screenshots of UI</h4></u>
+<hr>
+<h4>Screenshots of UI</h4>
 <img src="https://raw.githubusercontent.com/Premforreal/ToDoList/main/Screenshot%20(99).png" alt="screenshot" height="500" />
