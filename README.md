@@ -14,5 +14,5 @@
 <li>Utilized <b>GIT</b> and <b>GitHub</b.></li>
 </ul>
 
-<h4><u>Screenshots of UI<u/></h4>
+<u><h4>Screenshots of UI</h4></u>
 <img src="https://raw.githubusercontent.com/Premforreal/ToDoList/main/Screenshot%20(99).png" alt="screenshot" height="500" />
