@@ -8,7 +8,7 @@
 <h3>What I've learnt.</h3>
 <hr>
 <ul>
-  <li>Experience working with <b>MongoDB</b> and <b>CRUD<b> operations.</li>
+  <li>Experience working with <b>MongoDB</b> and <b>CRUD</b> operations.</li>
   <li>Accessing database with <b>NodeJS</b> using <b>Mongoose.</b></li>
   <li>Got better in writing HTTP <b>GET</b> & <b>POST</b> methods.</li>
   <li>Familiar with <b>EJS</b>.</i>
