@@ -5,7 +5,7 @@
   <li>It provides simple UI to interact and perform basic operations like add or delete particular to-do and has option to mark as completed.</li>
 </ul>
 
-<h3>What I've learnt.</h3>
+#<h3>What I've learnt.</h3>
 <hr>
 <ul>
   <li>Experience working with <b>MongoDB</b> and <b>CRUD</b> operations.</li>
